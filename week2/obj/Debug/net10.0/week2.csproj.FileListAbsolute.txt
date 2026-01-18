@@ -1,0 +1,14 @@
+D:\PRG 320 Assignment\week2\bin\Debug\net10.0\week2.exe
+D:\PRG 320 Assignment\week2\bin\Debug\net10.0\week2.deps.json
+D:\PRG 320 Assignment\week2\bin\Debug\net10.0\week2.runtimeconfig.json
+D:\PRG 320 Assignment\week2\bin\Debug\net10.0\week2.dll
+D:\PRG 320 Assignment\week2\bin\Debug\net10.0\week2.pdb
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.AssemblyInfoInputs.cache
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.AssemblyInfo.cs
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.csproj.CoreCompileInputs.cache
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.dll
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\refint\week2.dll
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.pdb
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\week2.genruntimeconfig.cache
+D:\PRG 320 Assignment\week2\obj\Debug\net10.0\ref\week2.dll
